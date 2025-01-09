@@ -1,5 +1,15 @@
 # Python Practice Problems
 
+<em>Yoyo's Notes: I am working through solutions to all the problems in this forked repository. Progress will be logged in commits as well as here:
+* 1/8/25: Solved `basics` problems.
+* 1/8/25: Solved `dictionaries` problem.
+* 1/9/25: Solved `functional-programming` problem.
+
+Notes below are from the original repository owner Professor Sotomayor. 
+</em>
+
+---
+
 This repository contains a collection of Python practice problems, primarily intended for students taking CMSC 14100 and CMSC 14200 at the University of Chicago.
 
 | Category               | Be-a-Computer                                                     | Short Exercises                                          | Advent of Code                                               |
