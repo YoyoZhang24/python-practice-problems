@@ -8,7 +8,7 @@ def peep(p, e):
     """
 
     ### Replace pass with your code
-    pass
+    return (int(str(p) + str(e) + str(e) + str(p)) == pow(int(str(p) + str(p)), e))
 
 
 #############################################################
