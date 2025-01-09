@@ -27,13 +27,19 @@ What is the output of the following code?
         d = {}
         for row in data[1:]:
             ticker = row[TICKER]
-            if (float(row[CLOSE]) - float(row[OPEN])) < 0:
+            if (float(row[CLOSE]) - float(row[OPEN])) < 0
                 d[ticker] = d.get(ticker, 0) + 1
         return d
 
     print("Result:")
     print(f1(stocks))
     print()
+
+Answer:
+<pre>
+Result:
+{'AMD': 1, 'GOOG': 1, 'QQQ': 2}
+</pre>
 
 ## Exercise #2
 
@@ -54,6 +60,12 @@ What is the output of the following code?
     print("Result:")
     print(f2(stocks, 0))
     print()
+
+Answer:
+<pre>
+Result:
+{{'2010-11-09': ['QQQ'], '2010-11-10': ['AMD', 'BSB', 'GOOG'], '2010-11-11': ['AMD', 'GOOG']}}
+</pre>
 
 ## Exercise #3
 
@@ -76,3 +88,9 @@ This exercise is a bit more challenging than the previous two. What is the outpu
     print("Result:")
     print(f3(stocks))
     print()
+
+Answer:
+<pre>
+Result:
+{{'2010-11-09': [624.82, ['GOOG']], '2010-11-10': [630.4, ['BSB', 'GOOG']], '2010-11-11': [634.82, ['GOOG']]}}
+</pre>
