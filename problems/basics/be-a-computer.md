@@ -68,9 +68,10 @@ What is the output of the following code?
     print()
 
 Answer: 
-F1(1, 1)
-    F2(1, 2)
-        F3(1, 2)
-        F3: i = 3, j = 7, k = 27
-    F2: i = 1, j = 2, k = 27
-F1: i = 1, j = 1
+Result:\
+F1(1, 1)\
+    F2(1, 2)\
+        F3(1, 2)\
+        F3: i = 3, j = 7, k = 27\
+    F2: i = 1, j = 2, k = 27\
+F1: i = 1, j = 1\
