@@ -1,6 +1,6 @@
 # Python Practice Problems
 
-<em>Yoyo's Notes: I am working through solutions to all the problems in this forked repository. Progress will be logged in commits as well as here:
+<em>I am working through solutions to all the problems in this forked repository. Progress will be logged in commits as well as here:
 * 1/8/25: Solved `basics` problems.
 * 1/8/25: Solved `dictionaries` problem.
 * 1/9/25: Solved `functional-programming` problem.
