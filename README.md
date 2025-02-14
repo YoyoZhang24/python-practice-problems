@@ -4,6 +4,7 @@
 * 1/8/25: Solved `basics` problems.
 * 1/8/25: Solved `dictionaries` problem.
 * 1/9/25: Solved `functional-programming` problem.
+* 2/13/25: Solved `aoc2019-06.py` in `graphs` (1/4).
 
 Notes below are from the original repository owner Professor Sotomayor. 
 </em>

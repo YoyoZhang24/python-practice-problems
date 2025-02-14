@@ -53,7 +53,7 @@ What is the output of the following code?
             spread = float(row[CLOSE]) - float(row[OPEN])
             if threshold <= spread:
                 if date not in d:
-                    d[date] = []
+                    d[date] = []                       
                 d[date].append(ticker)
         return d
 
